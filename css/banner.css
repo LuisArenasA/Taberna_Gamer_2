@@ -1,0 +1,34 @@
+
+#banner img{
+    width: 100%;
+    height: 460px;
+
+}
+
+#banner .contenedor{
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    color: rgb(255, 217, 2);
+    font-family: cursive;
+    
+}
+
+#banner h2{
+    font-size: 29px;
+}
+
+#banner a{
+    margin-top: 15px;
+    display: block;
+    width: 70px;
+    padding: 10px;
+    border: solid 3px greenyellow;
+    text-decoration: none;
+    color: rgb(255, 217, 2);
+    border-radius: 8px;
+}
+
+#banner a:hover{
+    background:greenyellow ;
+}
